@@ -1,0 +1,45 @@
+{
+  "locations": [
+    {
+      "id": 1,
+      "type": "restaurant",
+      "name": "Taishoken",
+      "description": "Ramen restaurant",
+      "rating": 3,
+      "image_id": 1
+    },
+    {
+      "id": 2,
+      "type": "restaurant",
+      "name": "Fire Wings",
+      "description": "A chicken place",
+      "rating": 5,
+      "image_id": 2
+    },
+    {
+      "id": 3,
+      "type": "park",
+      "name": "Huddart Park",
+      "description": "A nice park",
+      "rating": 5,
+      "image_id": 3
+    }
+  ],
+  "images": [
+    {
+      "id": 1,
+      "url": "https://i.picsum.photos/id/626/200/200.jpg?hmac=k-fpo_bQAtxcljtuQzE1GTq5YEufAV5jjzW3n86c0i0",
+      "alt": "Something"
+    },
+    {
+      "id": 2,
+      "url": "https://i.picsum.photos/id/582/200/200.jpg?hmac=v2wdQGtGl4-2EY3X8qp43Afv4tHA_j5TwoDu6gYz4NE",
+      "alt": "Something"
+    },
+    {
+      "id": 3,
+      "url": "https://i.picsum.photos/id/55/200/200.jpg?hmac=bZJlDgjT6ZbhsSE405Cdmv7eIH2M2P8FjGnOJwvryB8",
+      "alt": "Something"
+    }
+  ]
+}
